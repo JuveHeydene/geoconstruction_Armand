@@ -22,7 +22,7 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold text-navy-900 mb-6">Notre Histoire</h2>
               <div className="space-y-4 text-gray-600">
                 <p>
-                  Fondée en 2013 par M. Jean Kamga, ingénieur géotechnicien de formation, 
+                  Fondée en 2013 par M. Armand, ingénieur géotechnicien de formation, 
                   GeoConstruction est née d'une vision : apporter des solutions de construction 
                   durables et adaptées aux spécificités du sol camerounais.
                 </p>
@@ -129,7 +129,7 @@ export default function AboutPage() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center">
               <div className="w-48 h-48 mx-auto bg-gradient-to-br from-blue-400 to-cyan-300 rounded-full mb-6"></div>
-              <h3 className="text-xl font-semibold text-navy-900">Jean Kamga</h3>
+              <h3 className="text-xl font-semibold text-navy-900">Armand</h3>
               <p className="text-blue-600 mb-2">Fondateur & Directeur Général</p>
               <p className="text-gray-600">
                 Ingénieur géotechnicien avec 15 ans d'expérience, expert en sols tropicaux.

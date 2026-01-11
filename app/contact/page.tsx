@@ -76,7 +76,7 @@ export default function ContactPage() {
                   </div>
                 </div>
 
-                <div className="flex items-start space-x-4">
+                <div className="flex items-start space-x-4"> 
                   <div className="w-12 h-12 bg-cyan-100 rounded-xl flex items-center justify-center flex-shrink-0">
                     <Phone className="text-cyan-600" size={24} />
                   </div>
